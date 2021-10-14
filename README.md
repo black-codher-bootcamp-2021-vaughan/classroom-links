@@ -1,6 +1,6 @@
 # {cohort} Classroom Links
 
-All your cohort in session and assignment links will be listed below. This document will be continually updated throughout your course, so revisit periodically.
+All your cohort session and assignment links will be listed below. This document will be continually updated throughout your course, so revisit periodically.
 
 ## Unit 1 - Command Line and Git
 

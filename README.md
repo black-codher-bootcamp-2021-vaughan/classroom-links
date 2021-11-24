@@ -42,7 +42,7 @@ Assessment Due Date: Sunday 19th Dec 2021 @ 23:00 ![1f4e3](https://user-images.g
 
 - For your unit assessment you are required to follow the instructions found in the `README.MD` of GitHub Classroom generated repository.
 - You will first need to accept the assessment in [GitHub Classroom](https://classroom.github.com/a/dt6ipMiL) and then clone the assignment repository to your machine. 
-- We require you to submit the URL for your assignment repository in the [HTML and CSS: Unit Assessment quiz](https://learning.blackcodher.tech/courses/full-stack-developer/lessons/html-and-css/quizzes/html-and-css-unit-assessment/) on Black Codher Learning once you have completed the assessment.
+- We require you to submit the URL for your assignment repository in the [JavaScript: Unit Assessment](https://learning.blackcodher.tech/courses/full-stack-developer/lessons/javascript/topic/assignment-03-javascript-assessment/quizzes/javascript-unit-assessment/) on Black Codher Learning once you have completed the assessment.
 
 ![1f4e3](https://user-images.githubusercontent.com/11095605/138965831-fa544f7d-2529-4b13-a8f7-ab988dd1db35.png)
 Assessment Due Date: Sunday 30th Jan 2022 ![1f4e3](https://user-images.githubusercontent.com/11095605/138965840-4dae6c75-045b-4b0d-9bb6-3b1b8795a3d2.png)

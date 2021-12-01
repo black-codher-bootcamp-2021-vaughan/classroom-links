@@ -4,7 +4,7 @@ All your cohort session and assignment links will be listed below. This document
 
 - [Unit 1 Command Line and Git](#unit-1-command-line-and-git)
 - [Unit 2 HTML and CSS](#unit-2-html-and-css)
-- [Unit 3 JavaScript (Group Project)](#unit-3-javascript-group-project)
+- [Unit 3 JavaScript](#unit-3-javascript)
 - [Unit 4 React](#unit-4-react)
 - [Unit 5 Node.js](#unit-5-nodejs)
 
@@ -38,7 +38,17 @@ Assessment Due Date: Sunday 14th November 2021 @ 23:00 ![1f4e3](https://user-ima
 ![1f4e3](https://user-images.githubusercontent.com/11095605/138965831-fa544f7d-2529-4b13-a8f7-ab988dd1db35.png)
 Assessment Due Date: Sunday 19th Dec 2021 ![1f4e3](https://user-images.githubusercontent.com/11095605/138965840-4dae6c75-045b-4b0d-9bb6-3b1b8795a3d2.png)
 
-## Unit 3 JavaScript (Group Project)
+## Unit 3 JavaScript 
+
+### Starter Files
+
+We have provided a repository of starter JavaScript files to help you get started with this unit. You can access your starter files from [here](https://classroom.github.com/a/jh71IfUp).
+
+### Pull Request Practice
+
+In preparation for your assessment you are to practice creating and reviewing pull requests with your study group. You can access your group repo from [here](https://classroom.github.com/a/RH71J_XI).
+
+### Assessment (Group Project)
 
 - For your unit assessment you are required to follow the instructions found in the `README.MD` of GitHub Classroom generated repository.
 - You will first need to accept the assessment in [GitHub Classroom](https://classroom.github.com/a/dt6ipMiL) and then clone the assignment repository to your machine. 
